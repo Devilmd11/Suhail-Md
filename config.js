@@ -76,9 +76,8 @@ module.exports = {
  
   author : process.env.PACK_AUTHER|| "",
   packname: process.env.PACK_NAME || "",
-  botname : process.env.BOT_NAME  || " Devil-ᴜʜ",
-  ownername:process.env.OWNER_NAME|| "It'x Suhail",
-
+  botname : process.env.BOT_NAME  || " Devil-king",
+  ownername:process.env.OWNER_NAME|| "It'Devil king",
 
   errorChat : process.env.ERROR_CHAT || "",
   KOYEB_API : process.env.KOYEB_API  || "false",
